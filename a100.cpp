@@ -14,7 +14,8 @@ int main() {
     }
 
 
-    myStack.push("hello");
+    // Remove this line or push an integer value instead
+    // myStack.push(40);  // if you need to push another number
 
     return 0;
 }
